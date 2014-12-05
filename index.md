@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Advanced R for Actuaries
-tagline: Easy websites with GitHub Pages
 ---
 
 # Advanced R for Actuaries
